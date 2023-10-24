@@ -1,4 +1,6 @@
 # MachineLearningProject
+
+
 Step 1: Data Collection
 
 
@@ -80,12 +82,3 @@ Step 1: Data Collection
   8.1. Publish your Jupyter Notebook on GitHub or another platform to share your findings and code with the wider machine learning community.
   
   8.2. Create resources such as articles, blog posts, or tutorials that summarize your project and the lessons you've learned.
-
-  
-
-#Step 9: References and Further Reading
-
-
-  9.1. Cite the references you mentioned in your project proposal, including the links to external resources and datasets.
-  
-  9.2. Encourage team members to explore additional resources to gain a deeper understanding of the classification algorithms and techniques used in the project.
