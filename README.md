@@ -89,5 +89,3 @@ Step 1: Data Collection
   9.1. Cite the references you mentioned in your project proposal, including the links to external resources and datasets.
   
   9.2. Encourage team members to explore additional resources to gain a deeper understanding of the classification algorithms and techniques used in the project.
-  
-  Remember to collaborate effectively as a team, communicate regularly, and keep track of your progress to ensure the successful completion of this project. Additionally, be prepared to adapt your approach based on the specific insights you gain during the project.
