@@ -2,7 +2,7 @@
 ## Overview
 This project focuses on recognizing alphanumeric characters using the EMNIST dataset. The process involves data collection and preprocessing, algorithm selection and implementation, model training and evaluation, fine-tuning, real-world application demonstrations, continuous documentation, and sharing our learning journey. The final version of our implementation is encapsulated in [EMNIST_CNN_FINAL_VERSION.ipynb](EMNIST_CNN_FINAL_VERSION.ipynb).
 
-# Libaries
+# Libraries
 - Scikit-learn
 - Numpy
 - Pandas
